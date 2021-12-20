@@ -1,16 +1,16 @@
 * HOME
 home__social
-https://www.linkedin.com/
-https://dribbble.com/
-https://github.com/
+https://twitter.com/TantalumGames
+https://solo.to/tantalum
+https://www.youtube.com/channel/UCmRszxyBtto0OVq1jB2qc9g
 
 home__description
-High level experience in web design and development knowledge, producing quality work.
+Creative game developers; producing unique experiences and software to make your day.
 
 
 * ABOUT
 about__description
-Web developer, with extensive knowledge and years of experience, working in web technologies and Ui / Ux design, delivering quality work.
+We create games and experiences on Crayta, a multiplayer game platform, and unique social spaces on Moz:11a Hubs.
 
 about__info-name
 Years <br> experience
@@ -20,10 +20,9 @@ Companies <br> worked
 
 * SERVICES
 services__modal-service
-I develop the user interface.
-Web page development.
-I create ux element interactions.
-I position your company brand.
+<a href="agu.html">All Geared Up</a>
+<a href="sun.html">Sunset Horizon: Beta</a>
+<a href="cyan.html">Cyanide Gun Game</a>
 
 
 * PORTFOLIO
